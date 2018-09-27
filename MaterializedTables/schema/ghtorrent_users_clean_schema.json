@@ -1,0 +1,46 @@
+[
+  {
+    "name": "id",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "login",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "company",
+    "type": "STRING"
+  },
+  {
+    "name": "created_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "type",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "long",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "lat",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "country",
+    "type": "STRING"
+  },
+  {
+    "name": "state",
+    "type": "STRING"
+  },
+  {
+    "name": "city",
+    "type": "STRING"
+  }
+]
